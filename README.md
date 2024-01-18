@@ -68,4 +68,7 @@ Recode 서비스는 온라인 스터디 매칭 웹 서비스로 Recode = Let’s
     4. 마이 페이지
 
     5. 스터디 룸
-    
+
+#### 아키텍쳐 구조
+![Architecture](https://github.com/HeoJungBaekKang/ReCode-BE/assets/137677440/672a6234-1931-40b0-9cf5-8260cd9c996f)
+
